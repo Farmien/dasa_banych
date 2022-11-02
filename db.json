@@ -10,6 +10,61 @@
      "best_lap_time": 2137,
      "type": "walking"
      
+   },
+   {
+     "id": 2,
+     "name":"Depa Tour",
+     "description":"Giga depa droga",
+     "image_url":"https://i.imgur.com/2dOdEBJ.png",
+     "length": 420,
+     "best_lap_date": 1661126200000,
+     "best_lap_time": 1505,
+     "type": "walking"
+     
+   },
+   {
+     "id": 3,
+     "name":"Kozuchow Walk Through Wrociszow",
+     "description":"Expierience of getting to Kozuchow through Wrociszow",
+     "image_url":"https://i.imgur.com/2dOdEBJ.png",
+     "length": 42069,
+     "best_lap_date": 1661126100000,
+     "best_lap_time": 113700,
+     "type": "walking"
+     
+   },
+   {
+     "id": 4,
+     "name":"Bike Road",
+     "description":"Road for Bikes",
+     "image_url":"https://i.imgur.com/2dOdEBJ.png",
+     "length": 150,
+     "best_lap_date": 1661126600000,
+     "best_lap_time": 99,
+     "type": "cycling"
+     
+   },
+   {
+     "id": 5,
+     "name":"Ufo New Salt",
+     "description":"Cycle around ufo",
+     "image_url":"https://i.imgur.com/2dOdEBJ.png",
+     "length": 51,
+     "best_lap_date": 1661126220000,
+     "best_lap_time": 10,
+     "type": "cycling"
+     
+   },
+   {
+     "id": 6,
+     "name":"Vatican",
+     "description":"Vatican walk",
+     "image_url":"https://i.imgur.com/2dOdEBJ.png",
+     "length": 1250,
+     "best_lap_date": 1661121400000,
+     "best_lap_time": 2999,
+     "type": "walking"
+     
    }
   ],
   
@@ -21,6 +76,61 @@
         {
          "route_id":1,
          "time":98,
+         "best_lap_date":1661004578000
+        }
+       ]
+    },
+    {
+      "id": 2,
+      "nick": "AdamsTheWhite",
+      "lap_time":[
+        {
+         "route_id":5,
+         "time":222222,
+         "best_lap_date":1661004578000
+        }
+       ]
+    },
+    {
+      "id": 3,
+      "nick": "deeznuts",
+      "lap_time":[
+        {
+         "route_id":3,
+         "time":3434343,
+         "best_lap_date":1661004578000
+        }
+       ]
+    },
+    {
+      "id": 4,
+      "nick": "dickdong",
+      "lap_time":[
+        {
+         "route_id":2,
+         "time":565422,
+         "best_lap_date":1661004578000
+        }
+       ]
+    },
+    {
+      "id": 5,
+      "nick": "BlackAdam",
+      "lap_time":[
+        {
+         "route_id":6,
+         "time":1111,
+         "best_lap_date":1661004578000
+        }
+       ]
+    },
+    {
+      "id": 6,
+      "nick": "JuanPablo",
+      "lap_time":[
+        {
+         "route_id":1,
+         "time":4444,
          "best_lap_date":1661004578000
         }
        ]
